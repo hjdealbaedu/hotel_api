@@ -217,13 +217,13 @@ Se recomienda usar **Bruno** (usebruno.com) como cliente HTTP para probar los en
 ### Ejemplo: consultar todas las habitaciones
 
 - Metodo: `GET`
-- URL: `https://TU-URL.up.railway.app/rooms`
+- URL: `https://hotelapi-production-5e43.up.railway.app/rooms`
 - Clic en Send.
 
 ### Ejemplo: crear una habitacion
 
 - Metodo: `POST`
-- URL: `https://TU-URL.up.railway.app/rooms`
+- URL: `https://hotelapi-production-5e43.up.railway.app/rooms`
 - Ve a la pestana Body → selecciona JSON.
 - Escribe:
 ```json
@@ -238,7 +238,7 @@ Se recomienda usar **Bruno** (usebruno.com) como cliente HTTP para probar los en
 ### Ejemplo: actualizar una habitacion
 
 - Metodo: `PATCH`
-- URL: `https://TU-URL.up.railway.app/rooms/1`
+- URL: `https://hotelapi-production-5e43.up.railway.app/rooms/1`
 - Body JSON:
 ```json
 {
@@ -249,7 +249,7 @@ Se recomienda usar **Bruno** (usebruno.com) como cliente HTTP para probar los en
 ### Ejemplo: eliminar una habitacion
 
 - Metodo: `DELETE`
-- URL: `https://TU-URL.up.railway.app/rooms/1`
+- URL: `https://hotelapi-production-5e43.up.railway.app/rooms/1`
 
 El mismo flujo aplica para los endpoints de `/reservations`.
 
