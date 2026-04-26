@@ -253,6 +253,14 @@ Se recomienda usar **Bruno** (usebruno.com) como cliente HTTP para probar los en
 
 El mismo flujo aplica para los endpoints de `/reservations`.
 
+### Vídeos usando Bruno para probar las APIs
+
+#### Habitaciones
+https://github.com/user-attachments/assets/727ab877-e405-4620-a97e-eb3daaefaf9a
+
+#### Reservas
+https://github.com/user-attachments/assets/d4b9cc3f-23f6-42b6-991a-48a05cb97dee
+
 ## Instalacion local
 
 ```bash
