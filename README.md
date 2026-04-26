@@ -256,7 +256,7 @@ El mismo flujo aplica para los endpoints de `/reservations`.
 ## Instalacion local
 
 ```bash
-git clone https://github.com/TU_USUARIO/hotel-api.git
+git clone https://github.com/hjdealbaedu/hotel_api.git
 cd hotel-api
 npm install
 ```
