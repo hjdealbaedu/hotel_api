@@ -57,7 +57,7 @@ La tabla `reservas` tiene una llave foranea hacia `habitaciones` con `ON DELETE 
 ### URL base
 
 ```
-https://TU-URL.up.railway.app
+https://hotelapi-production-5e43.up.railway.app/
 ```
 
 ### Habitaciones
